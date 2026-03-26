@@ -15,8 +15,8 @@
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Email: (your email)
+* 💼 LinkedIn: (https://www.linkedin.com/in/jaiswal5puneet/)
+* 📧 Email: (puneet05jaiswal@gmail.com)
 
 ---
 
@@ -55,7 +55,9 @@ Clerk | Arcjet | Stripe | Firebase | Git
 
 
 
-
+.
+.
+.
 
 * 🏠 Flatmates – Full Stack Listing Platform
 
@@ -72,6 +74,9 @@ Clerk | Arcjet | Stripe | Firebase | Git
 
 
 
+.
+.
+.
 
 
 
@@ -93,6 +98,9 @@ Clerk | Arcjet | Stripe | Firebase | Git
   <img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/be654dd1-9a73-4864-80f5-6fb8d279d85c" />
 
 
+.
+.
+.
 
 ---
 
