@@ -43,7 +43,7 @@ Clerk | Arcjet | Stripe | Firebase | Git
 ## 📌 Featured Projects
 
 * Finova – AI Finance SaaS Platform
-[Finova](<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/4981f0b4-49b5-44da-8921-2ee1efd77681" />)
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/4981f0b4-49b5-44da-8921-2ee1efd77681" />
 
 <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/5f5abd12-18b0-4a03-92a2-116a8597ff7c" />
 
