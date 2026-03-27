@@ -42,7 +42,7 @@ Clerk | Arcjet | Stripe | Firebase | Git
 
 ## 📌 Featured Projects
 
-#### Finova – AI Finance SaaS Platform   --------------------------------------->> Live Demo ( https://aifinova.vercel.app/ )
+#### *Finova – AI Finance SaaS Platform   --------------------------------------->> Live Demo ( https://aifinova.vercel.app/ )
 <img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/4981f0b4-49b5-44da-8921-2ee1efd77681" />
 
 <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/5f5abd12-18b0-4a03-92a2-116a8597ff7c" />
@@ -59,7 +59,7 @@ Clerk | Arcjet | Stripe | Firebase | Git
 .
 .
 
-#### Flatmates – Full Stack Listing Platform   ---------------------->> Live Demo (https://flatmatess.vercel.app/)
+#### *Flatmates – Full Stack Listing Platform   ---------------------->> Live Demo (https://flatmatess.vercel.app/)
 
 <img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/c1dbcf40-df4a-469c-941d-d2ebb6d098f4" />
 
@@ -85,7 +85,7 @@ Clerk | Arcjet | Stripe | Firebase | Git
 
 
 
-#### StudyNotion – EdTech Platform    -------------------->> Live Demo (https://studyhubfinal-1.onrender.com/)
+#### *StudyNotion – EdTech Platform    -------------------->> Live Demo (https://studyhubfinal-1.onrender.com/)
   <img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/7cce9514-eebb-4e50-abae-31ec96ac21f5" />
 
   <img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/ca313974-2fe5-4ab8-8801-166f37a6930c" />
