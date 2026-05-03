@@ -16,7 +16,7 @@
 ## 🌐 Connect with Me
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/jaiswal5puneet/)
-* 📧 Email: (puneet05jaiswal@gmail.com)
+* 📧 Email: (puneetjaiswal156@gmail.com)
 
 ---
 
